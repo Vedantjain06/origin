@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Melissa 🎈</h1>
+<h1 align="center">Hi there, I'm Vedant 🎈</h1>
 
 
 <p align="center">
@@ -9,10 +9,10 @@
 
 ### I'm a tech enthusiast
 
-- 😃 I'm a frontend focused developer
+- 😃 I'm a AI/ML Developer.
 - 📖 I'm currently studying HTML, CSS, JavaScript and React.js
 - 🏢 I'm currently unemployed and available for hire
-- 👩 Pronoums: she/her
+- 👩 Pronouns: He/Batman
 
  <h2 align="center">Languages</h2>
 <div style="display: inline_block" align="center"><br>
@@ -23,7 +23,7 @@
  <br><br>
 
  <p align="center">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=melribeiro&show_icons=true&theme=dark" alt="Mel's Github Stats" />
+    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=melribeiro&show_icons=true&theme=dark" alt="Jain's Github Stats" />
     <img width="397em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melribeiro&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
  
